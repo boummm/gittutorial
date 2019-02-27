@@ -1,3 +1,4 @@
 first try git
 add 2
 zero2
+pull: lay noi dung cua remote
