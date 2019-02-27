@@ -1,2 +1,6 @@
 first try git
+<<<<<<< HEAD
 add sth pls
+=======
+add 2
+>>>>>>> 1fa7815c03f043a8882adc6df5f9034aea1b701f
