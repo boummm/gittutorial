@@ -1,11 +1,6 @@
 first try git
-<<<<<<< HEAD
 add sth pls
-=======
 add 2
-<<<<<<< HEAD
->>>>>>> 1fa7815c03f043a8882adc6df5f9034aea1b701f
-=======
 zero2
->>>>>>> 65423a972fe58858202983cf348e4a6989490bfc
 commit: luu lai trang thai cua index
+pull: lay noi dung cua remote
